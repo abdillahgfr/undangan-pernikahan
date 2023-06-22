@@ -48,9 +48,9 @@ html{
 }
 
 .hero-text h2, .hero-text h3 {
-  transform: rotate(-3deg);
+/*   transform: rotate(-3deg);
   -webkit-transform: rotate(-3deg);
-  -ms-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg); */
 }
 
 .hero-slideshow {
